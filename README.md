@@ -1,9 +1,6 @@
 <p align="center">
   <a href="https://github.com/VituRamos">
-    <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=VituRamos&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/VituRamos">
-    <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=VituRamos&theme=tokyonight" />
+    <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=VituRamos&theme=dark" />
   </a>
 </p>
 
