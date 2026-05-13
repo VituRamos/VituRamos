@@ -1,9 +1,9 @@
 <p align="center">
   <a href="https://github.com/VituRamos">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=VituRamos&include_all_commits=false&rank_icon=github&show_icons=true&theme=tokyonight" />
+    <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=VituRamos&theme=tokyonight" />
   </a>
   <a href="https://github.com/VituRamos">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=VituRamos&layout=compact&langs_count=8&card_width=420&show_icons=true&theme=tokyonight" />
+    <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=VituRamos&theme=tokyonight" />
   </a>
 </p>
 
