@@ -1,10 +1,11 @@
 <p align="center">
   <a href="https://github.com/VituRamos">
-    <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=VituRamos&theme=rising-sun" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=VituRamos&theme=rising-sun" />
   </a>
 </p>
 
 <p align="center">
+  <br>
   <img alt="Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"/>
   <img alt="Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
   <img alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
