@@ -4,13 +4,13 @@
   </a>
 </p>
 
-<summary><h2> My Projects</h2></summary>
+<h2> My Projects</h2>
 <p align="left">
   <a href="https://github.com/VituRamos/minimal_shop" target="_blank">
-    <img src="https://github-readme-stats-viuramos.vercel.app/api/pin/?username=VituRamos&repo=minimal_shop&theme=rising-sun&hide_border=true&show_icons=true" alt="minimal_shop" width="380" />
+    <img src="https://github-readme-stats-vitu.vercel.app/api/pin/?username=VituRamos&repo=minimal_shop&theme=rising-sun&hide_border=true&show_icons=true" alt="minimal_shop" width="380" />
   </a>
   <a href="https://github.com/VituRamos/to_do" target="_blank">
-    <img src="https://github-readme-stats-vituramos.vercelapp/api/pin/?username=VituRamos&repo=to_do&theme=rising-sun&hide_border=true&show_icons=true" alt="to_do" width="380" />
+    <img src="https://github-readme-stats-vitu.vercel.app/api/pin/?username=VituRamos&repo=to_do&theme=rising-sun&hide_border=true&show_icons=true" alt="to_do" width="380" />
   </a>
 </p>
 
@@ -26,16 +26,9 @@
   <img alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 </p>
 
-  
-<summary><h2> Connect with me </h2></summary>
+<h2> Connect with me </h2>
 <div align="left">
-  <a href="https://github.com/VituRamos" target="_blank">
-  <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/VituRamos" target="_blank">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:victor.ramosbernardes@gmail.com" target="_blank">
-  <img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <a href="https://github.com/VituRamos" target="_blank" style="text-decoration: none;"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/VituRamos" target="_blank" style="text-decoration: none;"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:victor.ramosbernardes@gmail.com" target="_blank" style="text-decoration: none;"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>  
