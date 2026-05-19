@@ -7,10 +7,10 @@
 <summary><h2> My Projects</h2></summary>
 <p align="left">
   <a href="https://github.com/VituRamos/minimal_shop" target="_blank">
-    <img src="https://github-readme-stats-anuraghazra.vercel.app/api/pin/?username=VituRamos&repo=minimal_shop&theme=rising-sun&hide_border=true&show_icons=true" alt="minimal_shop" width="380" />
+    <img src="https://github-readme-stats-viuramos.vercel.app/api/pin/?username=VituRamos&repo=minimal_shop&theme=rising-sun&hide_border=true&show_icons=true" alt="minimal_shop" width="380" />
   </a>
   <a href="https://github.com/VituRamos/to_do" target="_blank">
-    <img src="https://github-readme-stats-anuraghazra.vercelapp/api/pin/?username=VituRamos&repo=to_do&theme=rising-sun&hide_border=true&show_icons=true" alt="to_do" width="380" />
+    <img src="https://github-readme-stats-vituramos.vercelapp/api/pin/?username=VituRamos&repo=to_do&theme=rising-sun&hide_border=true&show_icons=true" alt="to_do" width="380" />
   </a>
 </p>
 
