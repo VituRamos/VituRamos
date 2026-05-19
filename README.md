@@ -4,17 +4,15 @@
   </a>
 </p>
 
-
 <summary><h2> My Projects</h2></summary>
 <p align="left">
   <a href="https://github.com/VituRamos/minimal_shop" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VituRamos&repo=minimal_shop&theme=rising-sun&hide_border=true&show_icons=true" alt="minimal_shop" width="380" />
+    <img src="https://github-readme-stats-anuraghazra.vercel.app/api/pin/?username=VituRamos&repo=minimal_shop&theme=rising-sun&hide_border=true&show_icons=true" alt="minimal_shop" width="380" />
   </a>
   <a href="https://github.com/VituRamos/to_do" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VituRamos&repo=to_do&theme=rising-sun&hide_border=true&show_icons=true" alt="to_do" width="380" />
+    <img src="https://github-readme-stats-anuraghazra.vercelapp/api/pin/?username=VituRamos&repo=to_do&theme=rising-sun&hide_border=true&show_icons=true" alt="to_do" width="380" />
   </a>
 </p>
-
 
 <p align="left">
   <br>
@@ -31,16 +29,13 @@
   
 <summary><h2> Connect with me </h2></summary>
 <div align="left">
-  <a href="https://github.com/rishavanand" target="_blank">
-  <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+  <a href="https://github.com/VituRamos" target="_blank">
+  <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://dev.to/rishavanand" target="_blank">
-  <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+  <a href="https://linkedin.com/in/VituRamos" target="_blank">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/rishavanand" target="_blank">
-  <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://linkedin.com/in/rishavanand" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="mailto:victor.ramosbernardes@gmail.com" target="_blank">
+  <img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>  
