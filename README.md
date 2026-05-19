@@ -33,10 +33,8 @@
 
 <h2> Github Stats </h2>
 <p align="left">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=VituRamos&theme=rising-sun&hide_border=true&background=1F222E&dates=F85D7F" alt="GitHub Streak" /></a>
-
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=VituRamos&theme=rising-sun&hide_border=true&background=1F222E&dates=F85D7F&card_width=450" height="192px" alt="GitHub Streak" /></a>
   <br>
-  
-  <a href="https://github.com/VituRamos" target="_blank"><img alt="VituRamos's Github Stats" src="https://github-readme-stats-vitu.vercel.app/api/?username=VituRamos&bg_color=1F222E&show_icons=true&include_all_commits=true&count_private=true&icon_color=F85D7F&title_color=F85D7F&theme=react&hide_border=true" height="192px"/></a>
+  <a href="https://github.com/VituRamos" target="_blank"><img alt="VituRamos's Github Stats" src="https://github-readme-stats-vitu.vercel.app/api/?username=VituRamos&bg_color=1F222E&show_icons=true&include_all_commits=true&count_private=true&icon_color=F85D7F&title_color=F85D7F&theme=react&hide_border=true&card_width=450" height="192px"/></a>
   <a href="https://github.com/VituRamos" target="_blank"><img alt="VituRamos's Top Languages" src="https://github-readme-stats-vitu.vercel.app/api/top-langs/?username=VituRamos&langs_count=8&bg_color=1F222E&title_color=F85D7F&layout=compact&theme=react&icon_color=F85D7F&hide_border=true" height="192px"/></a>
 </p>
