@@ -1,10 +1,6 @@
-<p align="center">
-  <a href="https://github.com/VituRamos">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=VituRamos&theme=rising-sun" />
-  </a>
-</p>
 
-<h2> My Projects</h2>
+
+<h2> 📘 My Projects</h2>
 <p align="left">  
   <a href="https://github.com/VituRamos/minimal_shop">
   <img width="278" src="https://github-readme-stats-vitu.vercel.app/api/pin/?username=VituRamos&repo=minimal_shop&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"/></a>
@@ -24,9 +20,23 @@
   <img alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 </p>
 
+<br/>
+
 <h2> Connect with me </h2>
 <div align="left">
   <a href="https://github.com/VituRamos" target="_blank" style="text-decoration: none;"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/VituRamos" target="_blank" style="text-decoration: none;"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/victorramosb" target="_blank" style="text-decoration: none;"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:victor.ramosbernardes@gmail.com" target="_blank" style="text-decoration: none;"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>  
+
+<br/>
+
+<h2> Github Stats </h2>
+<p align="left">
+  <a href="https://github.com/VituRamos"><img src="https://github-readme-streak-stats.herokuapp.com/?user=VituRamos&theme=github-dark-dimmed" /></a>
+
+  <br>
+  
+  <a href="https://github.com/VituRamos" target="_blank"><img alt="VituRamos's Github Stats" src="https://github-readme-stats-vitu.vercel.app/api/?username=VituRamos&show_icons=true&include_all_commits=true&count_private=true&theme=rising-sun&hide_border=true" height="192px"/></a>
+  <a href="https://github.com/VituRamos" target="_blank"><img alt="VituRamos's Top Languages" src="https://github-readme-stats-vitu.vercel.app/api/top-langs/?username=VituRamos&langs_count=8&layout=compact&theme=rising-sun&hide_border=true" height="192px"/></a>
+</p>
