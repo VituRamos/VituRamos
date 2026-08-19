@@ -17,6 +17,9 @@
   <img alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 </div>
 
+<br/><br/>
+
+<h4> 🎓 Academic Projects</h4>
 <p align="left">
   <a href="https://github.com/VituRamos/STAE">
   <img width="278" src="https://github-readme-stats-vitu.vercel.app/api/pin/?username=VituRamos&repo=STAE&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"/></a>
