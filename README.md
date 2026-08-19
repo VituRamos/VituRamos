@@ -4,6 +4,11 @@
   <img width="278" src="https://github-readme-stats-vitu.vercel.app/api/pin/?username=VituRamos&repo=minimal_shop&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"/></a>
   <a href="https://github.com/VituRamos/to_do">
   <img width="278" src="https://github-readme-stats-vitu.vercel.app/api/pin/?username=VituRamos&repo=to_do&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"/></a>
+
+  <a href="https://github.com/VituRamos/STAE">
+  <img width="278" src="https://github-readme-stats-vitu.vercel.app/api/pin/?username=VituRamos&repo=to_do&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"/></a>
+  <a href="https://github.com/VituRamos/Eye-Tracking-Assistivo">
+  <img width="278" src="https://github-readme-stats-vitu.vercel.app/api/pin/?username=VituRamos&repo=to_do&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"/></a>
 </p>
 
 <div align="left">
