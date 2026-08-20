@@ -27,6 +27,10 @@
   <img width="278" src="https://github-readme-stats-vitu.vercel.app/api/pin/?username=VituRamos&repo=Eye_Tracking_Assistivo&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"/></a>
 </p>
 
+<div align="left">
+  <img alt="Python" src="https://img.shields.io/badge/Python-%2302569B.svg?style=for-the-badge&logo=Python&logoColor=white" />
+</div>
+
 <br/>
 
 <h2> Connect with me </h2>
