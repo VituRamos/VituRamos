@@ -4,9 +4,9 @@
   <img width="278" src="https://github-readme-stats-vitu.vercel.app/api/pin/?username=VituRamos&repo=minimal-shop&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"/></a>
   <a href="https://github.com/VituRamos/to-do">
   <img width="278" src="https://github-readme-stats-vitu.vercel.app/api/pin/?username=VituRamos&repo=to-do&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"/></a>
-
-  <a href="https://github.com/VituRamos/ceo-challenge">
-  <img width="278" src="https://github-readme-stats-vitu.vercel.app/api/pin/?username=VituRamos&repo=ceo-challenge&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/VituRamos/ManaScan">
+  <img width="278" src="https://github-readme-stats-vitu.vercel.app/api/pin/?username=VituRamos&repo=ManaScantheme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"/></a>
 </p>
 
 <div align="left">
@@ -24,12 +24,33 @@
 
 <h4> 🎓 Academic Projects</h4>
 <p align="left">
-  <a href="https://github.com/VituRamos/STAE">
-  <img width="278" src="https://github-readme-stats-vitu.vercel.app/api/pin/?username=VituRamos&repo=STAE&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"/></a>
   <a href="https://github.com/VituRamos/eye-tracking-assistivo">
   <img width="278" src="https://github-readme-stats-vitu.vercel.app/api/pin/?username=VituRamos&repo=eye-tracking-assistivo&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"/></a>
 </p>
 
+<div align="left">
+  <img alt="Python" src="https://img.shields.io/badge/Python-%2302569B.svg?style=for-the-badge&logo=Python&logoColor=white" />
+</div>
+
+<br/>
+
+<p align="left">
+<a href="https://github.com/VituRamos/ceo-challenge">
+  <img width="278" src="https://github-readme-stats-vitu.vercel.app/api/pin/?username=VituRamos&repo=ceo-challenge&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"/></a>
+</p>
+
+<div align="left">
+  <img alt="Python" src="https://img.shields.io/badge/Python-%2302569B.svg?style=for-the-badge&logo=Python&logoColor=white" />
+</div>
+
+<br/>
+
+<p align="left">
+<a href="https://github.com/VituRamos/STAE">
+  <img width="278" src="https://github-readme-stats-vitu.vercel.app/api/pin/?username=VituRamos&repo=STAE&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"/></a>
+  <a href="https://github.com/VituRamos/eye-tracking-assistivo">
+</p>
+    
 <div align="left">
   <img alt="Python" src="https://img.shields.io/badge/Python-%2302569B.svg?style=for-the-badge&logo=Python&logoColor=white" />
 </div>
