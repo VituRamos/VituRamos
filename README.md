@@ -10,13 +10,13 @@
 </p>
 
 <div align="left">
-  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
-  <img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2320232a.svg?style=for-the-badge&logo=Flutter&logoColor=%2361DAFB" />
+  <img alt="Dart" src="https://img.shields.io/badge/dart-%2320232a.svg?style=for-the-badge&logo=dart&logoColor=%2361DAFB" />
   &nbsp;&nbsp;&nbsp;
-  <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/html5-%2320232a.svg?style=for-the-badge&logo=html5&logoColor=%2361DAFB" />
+  <img alt="CSS3" src="https://img.shields.io/badge/css3-%2320232a.svg?style=for-the-badge&logo=css3&logoColor=%2361DAFB" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=%2361DAFB" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%2320232a.svg?style=for-the-badge&logo=typescript&logoColor=%2361DAFB" />
   <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 </div>
 
@@ -29,7 +29,12 @@
 </p>
 
 <div align="left">
-  <img alt="Python" src="https://img.shields.io/badge/Python-%2302569B.svg?style=for-the-badge&logo=Python&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-%2320232a.svg?style=for-the-badge&logo=Python&logoColor=%2361DAFB" />
+  <img alt="Tauri" src="https://img.shields.io/badge/Tauri-%2320232a.svg?style=for-the-badge&logo=Tauri&logoColor=%2361DAFB" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%2320232a.svg?style=for-the-badge&logo=typescript&logoColor=%2361DAFB" />
+  <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img alt="Tailwind_CSS" src="https://img.shields.io/badge/tailwind-%2320232a.svg?style=for-the-badge&logo=tailwind-css&logoColor=%2361DAFB" />
+  <img alt="Vite" src="https://img.shields.io/badge/Vite-%2320232a.svg?style=for-the-badge&logo=Vite&logoColor=%2361DAFB" />
 </div>
 
 <br/>
@@ -40,9 +45,10 @@
 </p>
 
 <div align="left">
-  <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img alt="Tailwind_CSS" src="https://img.shields.io/badge/tailwind-%23007ACC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%2320232a.svg?style=for-the-badge&logo=typescript&logoColor=%2361DAFB" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=%2361DAFB" />
+  <img alt="Tailwind_CSS" src="https://img.shields.io/badge/tailwind-%2320232a.svg?style=for-the-badge&logo=tailwind-css&logoColor=%2361DAFB" />
+  <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 </div>
 
 <br/>
@@ -54,7 +60,7 @@
 </p>
     
 <div align="left">
-  <img alt="Python" src="https://img.shields.io/badge/Python-%2302569B.svg?style=for-the-badge&logo=Python&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-%2320232a.svg?style=for-the-badge&logo=Python&logoColor=%2361DAFB" />
 </div>
 
 <br/>
